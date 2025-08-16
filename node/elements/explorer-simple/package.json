@@ -19,7 +19,7 @@
   "dependencies": {
     "box-node-sdk": "^1.24.1",
     "express": "^4.15.3",
-    "pug": "^2.0.0-rc.2"
+    "pug": "^3.0.3"
   },
   "repository": {
     "type": "git",
